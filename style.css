@@ -81,12 +81,7 @@ th, td {
         ドット絵
 -------------------- */
 
-.dot16x16 {
-  width: 300px;
-  height: 300px;
-}
-
-.dot32x32 {
-  width: 150px;
-  height: 150px;
+.dot {
+  width: 100%;
+  height: auto;
 }
