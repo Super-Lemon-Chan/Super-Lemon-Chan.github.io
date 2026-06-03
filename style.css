@@ -81,15 +81,14 @@ th, td {
         ドット絵
 -------------------- */
 .pixel_art {
-        border: 10px solid;
-        border-image: linear-gradient(to left, var(--theme-color), #ffad29);
+        border: 10px solid #ffad29;
 }
 /* --------------------
         アイコン
 -------------------- */
 .icon {
         background-color: #f9f9f9;
-        border: 15px soild #f7d343;
+        border: 10px soild #f7d343;
 }
 
 /* --------------------
