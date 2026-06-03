@@ -81,6 +81,6 @@ th, td {
         ドット絵
 -------------------- */
 .pixel_art {
-        border: 10px solid #fffcf2;
+        border: 10px solid var(--theme-color);
 }
 
