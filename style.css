@@ -18,8 +18,7 @@ html, body {
 body {
   margin: 0;
   padding: 30px;
-  color: #333;
-  background-color: 0f0f0f
+  color: #0f0f0f;
 }
 
 /* --------------------
@@ -80,4 +79,7 @@ th, td {
 /* --------------------
         ドット絵
 -------------------- */
+.pixel_art {
+        border: 10px solid #fffcf2;
+}
 
