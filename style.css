@@ -84,3 +84,9 @@ th, td {
         border: 10px solid linear-gradient(to leftvar, var(--theme-color), #ffad29);
 }
 
+/* --------------------
+        文字色
+-------------------- */
+p {
+  color: white;
+}
