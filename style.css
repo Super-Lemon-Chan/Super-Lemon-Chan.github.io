@@ -81,7 +81,8 @@ th, td {
         ドット絵
 -------------------- */
 .pixel_art {
-        border-image: 10px solid linear-gradient(to left, #f7d343, #ffad29);
+        border: 10px solid;
+        border-image: linear-gradient(to left, var(--theme-color), #ffad29);
 }
 /* --------------------
         アイコン
