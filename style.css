@@ -81,7 +81,7 @@ th, td {
         ドット絵
 -------------------- */
 .pixel_art {
-        border: 10px solid linear-gradient(to leftvar, var(--theme-color), #ffad29);
+        border: 10px solid linear-gradient(to left, var(--theme-color), #ffad29);
 }
 
 /* --------------------
